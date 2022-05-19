@@ -1,1 +1,5 @@
-git push origin main
+use "git pull" to pull out the file taht needs update
+update it
+use git add . to stage
+commit the file using git commit -m "commit message"
+push it using git push origin main
